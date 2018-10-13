@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37075e14-545d-45e5-ba75-7adb81901b19" name="Default" comment="" />
+    <list default="true" id="37075e14-545d-45e5-ba75-7adb81901b19" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-project/Task1/Task1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-project/Task1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-project/Task2/Task2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-project/Task2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-project/Task3/Task3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-project/Task3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-project/Task5/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-project/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spark-project/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/SparkRddTest4/target/" />
     <ignored path="$PROJECT_DIR$/spark-project/target/" />
     <ignored path="$PROJECT_DIR$/spark-project/Task4/target/" />
+    <ignored path="$PROJECT_DIR$/spark-project/Task1/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +44,7 @@
       <file leaf-file-name="ThreeCityHotPotTop10Test2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spark-project/Task4/src/main/java/com/xuxiang/Core/ThreeCityHotPotTop10Test2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2432">
+            <state relative-caret-position="573">
               <caret line="142" column="18" selection-start-line="142" selection-start-column="18" selection-end-line="142" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -37,32 +53,42 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sets.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/14.0.1/guava-14.0.1.jar!/com/google/common/collect/Sets.class">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spark-project/Task1/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spark-project/Task4/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1140">
-              <caret line="92" column="75" selection-start-line="92" selection-start-column="75" selection-end-line="92" selection-end-column="75" />
+            <state relative-caret-position="242">
+              <caret line="148" column="31" selection-start-line="148" selection-start-column="31" selection-end-line="148" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Collections2.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/14.0.1/guava-14.0.1.jar!/com/google/common/collect/Collections2.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1406">
-              <caret line="96" column="22" selection-start-line="96" selection-start-column="22" selection-end-line="96" selection-end-column="22" />
-            </state>
-          </provider>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spark-project/Task2/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="ThreeCityHotPotTop10.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spark-project/Task3/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spark-project/Task5/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="ThreeCityHotPotTop10.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spark-project/Task4/src/main/java/com/xuxiang/Core/ThreeCityHotPotTop10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="-289">
+              <caret line="61" column="31" selection-start-line="61" selection-start-column="31" selection-end-line="61" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2404#2412#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -71,7 +97,7 @@
       <file leaf-file-name="ShopTotalTop10.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spark-project/Task4/src/main/java/com/xuxiang/Core/ShopTotalTop10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
+            <state relative-caret-position="247">
               <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -89,34 +115,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserPay.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spark-project/Task4/src/main/java/com/xuxiang/model/UserPay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-              <folding>
-                <element signature="e#357#358#0" expanded="true" />
-                <element signature="e#387#388#0" expanded="true" />
-                <element signature="e#598#599#0" expanded="true" />
-                <element signature="e#644#645#0" expanded="true" />
-                <element signature="e#678#679#0" expanded="true" />
-                <element signature="e#708#709#0" expanded="true" />
-                <element signature="e#754#755#0" expanded="true" />
-                <element signature="e#800#801#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserView.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spark-project/Task4/src/main/java/com/xuxiang/model/UserView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -126,6 +124,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -198,34 +199,13 @@
               <item name="HadoopAndSpark" type="462c0819:PsiDirectoryNode" />
               <item name="spark-project" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="HadoopAndSpark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HadoopAndSpark" type="462c0819:PsiDirectoryNode" />
-              <item name="spark-project" type="462c0819:PsiDirectoryNode" />
-              <item name="Task4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HadoopAndSpark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HadoopAndSpark" type="462c0819:PsiDirectoryNode" />
-              <item name="spark-project" type="462c0819:PsiDirectoryNode" />
-              <item name="Task4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HadoopAndSpark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HadoopAndSpark" type="462c0819:PsiDirectoryNode" />
-              <item name="spark-project" type="462c0819:PsiDirectoryNode" />
-              <item name="Task4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -347,11 +327,13 @@
       <workItem from="1535817814149" duration="713000" />
       <workItem from="1535848422418" duration="8549000" />
       <workItem from="1536587481375" duration="7000" />
+      <workItem from="1539412216916" duration="164000" />
+      <workItem from="1539412531757" duration="2050000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75953000" />
+    <option name="totallyTimeSpent" value="78167000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="798" extended-state="6" />
@@ -372,8 +354,8 @@
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32930514" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Spring" order="11" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2774799" />
@@ -436,41 +418,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spark-project/Task4/src/main/java/com/xuxiang/Core/ShopTotalTop10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spark-project/Task4/src/main/java/com/xuxiang/Core/LogAlikoubei.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="75" column="54" selection-start-line="75" selection-start-column="54" selection-end-line="75" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spark-project/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spark-project/Task4/src/main/java/com/xuxiang/model/ShopInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="4" selection-end-line="17" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spark-project/Task4/src/main/java/com/xuxiang/model/ShopInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
-          <caret line="73" column="37" selection-start-line="73" selection-start-column="37" selection-end-line="73" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spark-project/Task4/src/main/java/com/xuxiang/model/UserView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -512,7 +459,6 @@
           <caret line="180" column="7" selection-start-line="180" selection-start-column="7" selection-end-line="180" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2404#2412#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -565,7 +511,6 @@
           <caret line="36" column="12" lean-forward="true" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2404#2412#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -618,7 +563,6 @@
           <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2404#2412#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -654,13 +598,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spark-project/Task4/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
         </state>
       </provider>
     </entry>
@@ -702,7 +639,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spark-project/Task4/src/main/java/com/xuxiang/model/UserPay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
+        <state relative-caret-position="380">
           <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
             <element signature="e#357#358#0" expanded="true" />
@@ -740,7 +677,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spark-project/Task4/src/main/java/com/xuxiang/Core/ShopTotalTop10.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
+        <state relative-caret-position="247">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -762,9 +699,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spark-project/Task4/src/main/java/com/xuxiang/Core/ThreeCityHotPotTop10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="61" column="31" selection-start-line="61" selection-start-column="31" selection-end-line="61" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spark-project/Task4/src/main/java/com/xuxiang/Core/ThreeCityHotPotTop10Test2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2432">
+        <state relative-caret-position="573">
           <caret line="142" column="18" selection-start-line="142" selection-start-column="18" selection-end-line="142" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -772,16 +719,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spark-project/Task4/src/main/java/com/xuxiang/Core/ThreeCityHotPotTop10.java">
+    <entry file="file://$PROJECT_DIR$/spark-project/Task1/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark-project/Task4/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2404#2412#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="242">
+          <caret line="148" column="31" selection-start-line="148" selection-start-column="31" selection-end-line="148" selection-end-column="31" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark-project/Task2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark-project/Task3/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark-project/Task5/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
